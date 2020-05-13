@@ -1,26 +1,13 @@
-# Learning.nodewithJs
+# Learning.Augmented Reality
 
-Patterns and Principles in this project:
-- Generic Repository Pattern
-- Singleton Pattern
-- Multi-layer Architecture Pattern
+This project loads a 3D model object (Business Card) by scanning a hiro marker
+Hiro marker scan from this website http://www.hitl.washington.edu/artoolkit/documentation/images/patt2.jpg
 
 Tools:
-- NodeJS
+- AR.js
 - JavaScript
-- ExpressJS
-- MongoDB
-- Mongoose
-
-Convention Refs: <br />
-   <a href="https://developer.mozilla.org/bm/docs/Web/JavaScript" target="_blank"> 
-   Web technology for developers - JavaScript
-   </a>
-
-Pré Requisites: <br />
- - NodeJS
- - MongoDB
- - VSCode
+- HTML
+- Aframe
 
  Run:
-   <br><code>  > npm install </code>
+   <br><code>  > node server.js </code>
